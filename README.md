@@ -1,3 +1,2 @@
 # seven speed
-
-This is where she makes a mod.
+this mod makes the player's speed in the game even
